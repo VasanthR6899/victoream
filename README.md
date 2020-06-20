@@ -1,2 +1,2 @@
 # victoream
-a machine learning model which predicts the house price 
+Estimation of Steering Angle using Machine Learning and Computer Vision 
